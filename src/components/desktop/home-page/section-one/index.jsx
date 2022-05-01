@@ -2,11 +2,11 @@ import React from "react";
 
 function SectionOne() {
   return (
-    <div>
+    <div className="mb-[16%]">
       <div className="h-full text-center mt-[5%] font-medium top-0 left-0 w-full text-black">
         <span className="text-[1.4rem]">Yeni</span>
         <img className="block m-auto w-[17%]" src="https://www.apple.com/v/home/an/images/logos/iphone-se/logo_hero_iphonese__dtb7zrygggeq_large_2x.png" alt="" />
-        <h3 className="font-normal text-[31px]">Bu güce ulaşmak hiç güç değil.</h3>
+        <h3 className="font-light text-[31px]">Bu güce ulaşmak hiç güç değil.</h3>
       </div>
 
       <div>
