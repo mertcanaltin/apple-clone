@@ -5,8 +5,9 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'apple-nav-bg': '#313132',
+        'apple-nav-bg': '#000000cc',
         'bg-color-apple': '#fbfbfd',
+        'bg-footer-bg': '#f5f5f7',
       },
     },
   },
