@@ -5,7 +5,7 @@ import CartLogo from "../../../assets/svgs/cart-logo";
 
 function NavbarDesktop() {
   return (
-    <nav class="bg-apple-nav-bg h-10 overflow-hidden">
+    <nav class="bg-apple-nav-bg h-10 overflow-hidden fixed w-100 t-0 z-50">
       <div class="container ml-[14rem] flex flex-wrap items-center 2xl:ml-[32rem]">
         <a href="https://apple.com" class="flex items-center">
           <AppleLogo />
