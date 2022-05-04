@@ -1,7 +1,7 @@
 function SectionFour() {
   return (
     <>
-      <div class='mt-[55%] xxl:p-3 grid grid-cols-2 gap-2 '>
+      <div class='mt-[55%] p-3 grid grid-cols-2 gap-2 bg-white xxl:p-3 grid grid-cols-2 gap-2 '>
         <div>
           <img className="w-100 h-[100%]" src="https://i.hizliresim.com/qwthaht.png"/>
         </div>
